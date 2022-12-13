@@ -2,8 +2,8 @@
 
 ## SETUP
 
-### npm install
+-- npm install
 
 ## Run
 
-### npm run test
+-- npm run test
